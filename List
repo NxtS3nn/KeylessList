@@ -1,4 +1,7 @@
 return {
     [6447798030] = "https://raw.githubusercontent.com/NxtS3nn/GamesKeyless/refs/heads/main/FunkyFriday", -- Funky Friday
-    [537413528] = "https://raw.githubusercontent.com/NxtS3nn/GamesKeyless/refs/heads/main/BuildABoat" -- Build A Boat
+    [537413528] = "https://raw.githubusercontent.com/NxtS3nn/GamesKeyless/refs/heads/main/BuildABoat", -- Build A Boat
+    [5985232436] = "https://raw.githubusercontent.com/NxtS3nn/KBZG63LF/refs/heads/main/InfectiousSmile" -- Infectious Smile
+
+
 }
